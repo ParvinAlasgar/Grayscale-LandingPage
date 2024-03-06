@@ -15,4 +15,11 @@ header h1 {
 main #build {
   background-image: url(../images/ipad.png);
   padding: 150px 0;
+}
+main #project .content {
+  border-left: 15px solid #558985;
+}
+main #project .lft {
+  border-left: none;
+  border-right: 15px solid #558985;
 }/*# sourceMappingURL=style.css.map */

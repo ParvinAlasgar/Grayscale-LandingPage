@@ -24,5 +24,17 @@ main {
     padding: 150px 0;
   }
   // End Build
+
+  // Project
+  #project {
+    .content {
+      border-left: 15px solid $color_main;
+    }
+    .lft {
+      border-left: none;
+      border-right: 15px solid $color_main;
+    }
+  }
+  // End Project
 }
 // End Main
