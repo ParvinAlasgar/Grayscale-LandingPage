@@ -1,0 +1,28 @@
+%bck_img {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+// Header
+header {
+  @extend %bck_img;
+  background-image: url(../images/bg-masthead.jpg);
+  padding: 450px 0;
+  h1 {
+    font-size: 80px;
+    z-index: 67777777 !important;
+  }
+}
+// End Header
+
+// Main
+main {
+  // Build
+  #build {
+    @extend %bck_img;
+    background-image: url(../images/ipad.png);
+    padding: 150px 0;
+  }
+  // End Build
+}
+// End Main

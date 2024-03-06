@@ -1,1 +1,18 @@
-/*# sourceMappingURL=style.css.map */
+main #build, header {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  background-image: url(../images/bg-masthead.jpg);
+  padding: 450px 0;
+}
+header h1 {
+  font-size: 80px;
+  z-index: 67777777 !important;
+}
+
+main #build {
+  background-image: url(../images/ipad.png);
+  padding: 150px 0;
+}/*# sourceMappingURL=style.css.map */
