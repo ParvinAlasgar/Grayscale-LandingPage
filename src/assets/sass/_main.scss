@@ -36,5 +36,13 @@ main {
     }
   }
   // End Project
+
+  // Subscribe
+  #subscribe {
+    @extend %bck_img;
+    background-image: url(../images/bg-signup.jpg);
+    padding: 150px 0;
+  }
+  // End Subscribe
 }
 // End Main

@@ -1,4 +1,4 @@
-main #build, header {
+main #subscribe, main #build, header {
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -22,4 +22,8 @@ main #project .content {
 main #project .lft {
   border-left: none;
   border-right: 15px solid #558985;
+}
+main #subscribe {
+  background-image: url(../images/bg-signup.jpg);
+  padding: 150px 0;
 }/*# sourceMappingURL=style.css.map */
