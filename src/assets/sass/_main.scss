@@ -44,5 +44,25 @@ main {
     padding: 150px 0;
   }
   // End Subscribe
+
+  // Contact
+  #contact {
+    .wrapper {
+      height: 270px;
+      border-bottom: 5px solid $color_main;
+      hr {
+        background-color: $color_main !important;
+        padding: 2px;
+        border: none;
+      }
+      &:hover {
+        i {
+          transition: transform 0.7s ease-in-out;
+          transform: rotate(360deg);
+        }
+      }
+    }
+  }
+  // End Contact
 }
 // End Main

@@ -26,4 +26,17 @@ main #project .lft {
 main #subscribe {
   background-image: url(../images/bg-signup.jpg);
   padding: 150px 0;
+}
+main #contact .wrapper {
+  height: 270px;
+  border-bottom: 5px solid #558985;
+}
+main #contact .wrapper hr {
+  background-color: #558985 !important;
+  padding: 2px;
+  border: none;
+}
+main #contact .wrapper:hover i {
+  transition: transform 0.7s ease-in-out;
+  transform: rotate(360deg);
 }/*# sourceMappingURL=style.css.map */
