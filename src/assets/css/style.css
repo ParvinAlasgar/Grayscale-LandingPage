@@ -9,7 +9,7 @@ header {
 }
 header h1 {
   font-size: 80px;
-  z-index: 67777777 !important;
+  z-index: 6 !important;
 }
 
 main #build {
