@@ -1,2 +1,1 @@
-# Grayscale
-  Web page application 
+![screenshot](./src/assets/images/screenshot.jpg)
